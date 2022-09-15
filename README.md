@@ -10,3 +10,6 @@ Ultimately, he makes the argument that the privacy bar of web3 is pretty low and
 
 ## Jacob's Comment
 The author clearly has a lack of trust in the prospects and safety of Web3 which I don't think are misplaced but I agree that if nothing else, Web3 is a fun experiment that we may not really know what to do with yet, but could lead to a new paradigm that could change many aspects of how the internet exists.
+
+# Kevin's Comment
+The article brings up good points regarding the lack of UI for new and hot technologies such as block-chain and crypto. As mentioned in the article, companies have taken advantage of this to create popular applictions where users can make transactions. Another interesting point is NFTs and how they are merly just images. It's very sifficult for a device to determine what a image is the "Correct" image, expecially when it comes to transactions for such products on the market.
